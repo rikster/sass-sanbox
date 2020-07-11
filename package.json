@@ -1,10 +1,10 @@
 {
   "name": "sass-sandbox",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "sass-sandbox",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "sass": "node-sass -w scss/ -o dist/css --recursive"
   },
   "repository": {
     "type": "git",
