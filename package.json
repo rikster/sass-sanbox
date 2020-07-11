@@ -1,0 +1,22 @@
+{
+  "name": "sass-sandbox",
+  "version": "1.0.0",
+  "description": "sass-sandbox",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rikster/sass-sandbox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rikster/sass-sandbox/issues"
+  },
+  "homepage": "https://github.com/rikster/sass-sandbox#readme",
+  "dependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
